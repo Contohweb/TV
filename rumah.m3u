@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="Rumah",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 tvg-id="Diema Sport1" tvg-logo="" group-title="Rumah",Diema Sport 1
+https://newlive.comsaw.com/live/sd-1-3861222.m3u8?txSecret=cc6f348ca0594e8a5ed1d8ce0ac94741&txTime=642CB2FA
+#EXTINF:-1 tvg-id="Diema Sport3" tvg-logo="" group-title="Rumah",Diema Sport 3
+https://newlive.comsaw.com/live/sd-1-3885244.m3u8?txSecret=1d25341857b051bb3db9bbfe5a4c6f7a&txTime=642CA1A0
+#EXTINF:-1 tvg-id="Prima Sport" tvg-logo="" group-title="Rumah",Prima Sport 1
+https://newlive.comsaw.com/live/sd-1-3865402.m3u8?txSecret=6ca75ebe23be5541e70cf6e8dc20a1b5&txTime=642CA1A0
+#EXTINF:-1 tvg-id="Mat4.u" tvg-logo="" group-title="Rumah",Mat4
+https://newlive.comsaw.com/live/sd-1-3900108.m3u8?txSecret=35c4cffe72970faa7c9d3f87dd49eb5b&txTime=642CAB00
+#EXTINF:-1 tvg-id="A sport" tvg-logo="" group-title="Rumah",A Sport Canli
+https://pulldg.hongdel.top/live/sd-1-3881719.m3u8
