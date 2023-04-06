@@ -1,13 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="Rumah",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#EXTINF:-1 tvg-id="Diema Sport1" tvg-logo="" group-title="Rumah",Diema Sport 1
-https://newlive.comsaw.com/live/sd-1-3861222.m3u8?txSecret=cc6f348ca0594e8a5ed1d8ce0ac94741&txTime=642CB2FA
-#EXTINF:-1 tvg-id="Diema Sport3" tvg-logo="" group-title="Rumah",Diema Sport 3
-https://newlive.comsaw.com/live/sd-1-3885244.m3u8?txSecret=1d25341857b051bb3db9bbfe5a4c6f7a&txTime=642CA1A0
-#EXTINF:-1 tvg-id="Prima Sport" tvg-logo="" group-title="Rumah",Prima Sport 1
-https://newlive.comsaw.com/live/sd-1-3865402.m3u8?txSecret=6ca75ebe23be5541e70cf6e8dc20a1b5&txTime=642CA1A0
-#EXTINF:-1 tvg-id="Mat4.u" tvg-logo="" group-title="Rumah",Mat4
-https://newlive.comsaw.com/live/sd-1-3900108.m3u8?txSecret=35c4cffe72970faa7c9d3f87dd49eb5b&txTime=642CAB00
-#EXTINF:-1 tvg-id="A sport" tvg-logo="" group-title="Rumah",A Sport Canli
-https://pulldg.hongdel.top/live/sd-1-3881719.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" group-title="Rumah",Indosiar
+https://entahlah.gdplayer.to/playlist/cDB2NVg4eU5TTnM2cTRydWVoWnA0NFZnRnJ3SUYyb1BXbWU0RUNBU21wUFRQRkdKdzVzcTgwcURFMkVCS2xyTER4ZkVYOWFUZnJLMXlsZEtnaWR6RjZQUDlHelJTbnh3VXNncUEvbXVyVDYyUk1jaC9vZzhrbHN1QUhvMlF4eWg,/exp=1680766343~acl=/hls-b/ingest_205_*/*~hmac=2e7b46161cc4444442255d8807d50d4deec8ce211236c98d7a107ab544687c84/hls-b/ingest_205_480p/index.m3u8?data=dERwM2I3YnM4cWZGQ0xiOStCWVArRUJMTks1OEVjc0N3MHA3ME44TSthZDA0eGk2cFJZNnZlZko2Uzc5TDlCdDZlaXVkWmF4S3FVR2FpMzRZMHhNTlZvbWRlL2tlNXVqVW1ESVdjVW5VckJrL1p3aTE5d25NakRsWWU3UWVOT3k,&live=true&token=MjYwRXVXSXBKUmNtRXU1dlA3RWRVMm1rKzZ2bFc3VitRSHovREJzTnA3L2J6UTY3RGZ1Z3FiMWs4NjRMbXNzM3VYOHJKVkZCQm1JY3BPL2hIc1ZaMGc9PQ,,
