@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="Rumah",08. SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" group-title="Rumah",10. INDOSIAR
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8zdVlIeEc0c3JYMXYrVmVGUWNCRU9oRkRXZDZvWERNelVNb3UrT2hVSHZjYXRlRU4wUmRjOWJXZ3huV2w,/exp=1681052708~acl=/hls-p/ingest_205_*/*~hmac=3d939728cbaece16dad83618c66a78c2bcbe872f6e4515c4590cc137812d1a76/hls-p/ingest_205_720p/index.m3u8?data=TWVPVVdhRzNjMWs2eFhGWm5lcmd4aDI2T05WNFVQTG5OSE5ZbXlIdFk0ejVZOUp1NU41QWRpbGhvb29DUE9xZC9HOStnUlorUnF1NUt4UlRHWHB6ZWVVTldBQkFtM1d4VTJRcDBwbGRIZTBKZVRGY1RtRFp6bzBTWDJveGdHWXY,&live=true&token=WW13aG42MkpMczBlUGhFQWJXQkdzUEpOV3N1MFhEaGpTbmhwTGVSL2lzd0VmMmlBejg0WGsxL0d3ZU1yZ0hVSXVXempEQzNnUDF0cW4zN2RzV3dZS3c9PQ,,
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-id="Dutatv.id" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="Rumah",11. DUTA TV
 https://o1.siar.us:443/dutatv/live/chunks.m3u8
