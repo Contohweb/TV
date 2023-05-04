@@ -4,7 +4,7 @@ http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" group-title="Rumah",10. INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-id="Dutatv.id" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="Rumah",11. DUTA TV
-https://o1.siar.us:443/dutatv/live/chunks.m3u8
+https://o1.siar.us/dutatv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="tvrikalteng.id" tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TENGAH.png" group-title="Rumah",TVRI KALTENG
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
 #EXTINF:-1 tvg-id="tvrikalsel.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejeIzo4LEZZSZt5HHy6RykT4ORZ-Tj5WNGg&usqp=CAU" group-title="Rumah",TVRI KALSEL
